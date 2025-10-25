@@ -4,7 +4,7 @@ Welcome to the **Renjie Group** research repository!
 
 ## About
 
-The Renjie Group is led by **Dr. Renjie Wan**, an Assistant Professor in the [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) at [Hong Kong Baptist University (HKBU)](https://www.hkbu.edu.hk/eng/main/index.jsp).
+At Renjie Group, we pursue the research topics that we find most inspiring and meaningful.
 
 ### Principal Investigator
 
